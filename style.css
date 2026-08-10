@@ -1,0 +1,18 @@
+/* CSS pour l'animation */
+@keyframes slideIn {
+  0% {
+    transform: translateX(-100%);
+  }
+  100% {
+    transform: translateX(0);
+  }
+}
+
+/* CSS pour le titre et la description */
+h1 {
+  animation: slideIn 1s ease-out;
+}
+
+p {
+  animation: slideIn 1s ease-out 0.5s;
+}
