@@ -31,5 +31,9 @@ function changeIntoMainBranch(textChanged) {
 changeIntoMainBranch("EN effet il a eu des changements dans MAIN");
 
 function newFeature2() {
-  return "feture2 OK";
+  return "feature2 OK";
+}
+
+function newFeature3() {
+  return "new Feature 3 OK";
 }
