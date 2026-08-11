@@ -24,3 +24,8 @@ function canDivide(a, b) {
     return true;
   }
 }
+
+function changeIntoMainBranch(textChanged) {
+  console.log(changeIntoMainBranch);
+}
+changeIntoMainBranch("EN effet il a eu des changements dans MAIN");
