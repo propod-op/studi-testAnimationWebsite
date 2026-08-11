@@ -29,3 +29,7 @@ function changeIntoMainBranch(textChanged) {
   console.log(changeIntoMainBranch);
 }
 changeIntoMainBranch("EN effet il a eu des changements dans MAIN");
+
+function newFeature2() {
+  return "feture2 OK";
+}
