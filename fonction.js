@@ -16,3 +16,11 @@ function divide(a, b) {
     return a / b;
   }
 }
+
+function canDivide(a, b) {
+  if (b == 0) {
+    return false;
+  } else {
+    return true;
+  }
+}
