@@ -45,3 +45,7 @@ function auboulotControl(employe) {
     return false;
   }
 }
+
+function dispatchTask(listOfEmployes, listOftasks) {
+  console.log("Les taches sont réparties.");
+}
