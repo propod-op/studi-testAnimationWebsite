@@ -20,3 +20,7 @@ p {
 .au-boulot {
   color: red;
 }
+
+.au-boulot .pr {
+  color: red;
+}
