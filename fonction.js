@@ -37,3 +37,11 @@ function newFeature2() {
 function newFeature3() {
   return "new Feature 3 OK";
 }
+
+function auboulotControl(employe) {
+  if (employe.isPresent) {
+    return true;
+  } else {
+    return false;
+  }
+}
